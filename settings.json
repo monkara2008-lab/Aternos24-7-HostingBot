@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": ""
+      "password": "lovuongchiton"
     },
     "anti-afk": {
       "enabled": true,
